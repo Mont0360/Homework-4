@@ -14,4 +14,14 @@ var questions = [
       choices: ["Hyper Text Markup Language", "Hi Tom Much Love", "Hungry Time Monday Lunch", "Home Television Makes Lies"],
       answer: "Hyper Text Markup Language"
     },
+    {
+        title: "What is considered to be the most popular programming language in the world?",
+        choices: ["JavaScript", "Swift", "Ruby", "HTML"],
+        answer: "JavaScript"
+      },
+      {
+        title: "A ___ allows users to move from one webpage to another.",
+        choices: ["browser", "hyperlink", "HTML", "video"],
+        answer: "hyperlink"
+      }
   ]
