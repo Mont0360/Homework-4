@@ -31,7 +31,6 @@ function endQuestion() {
     var scoreTag = document.createElement("h1");
     var inputTag = document.createElement("input");
     var submitButton = document.createElement("button");
-    score += secondsLeft * .1;
     score = score.toFixed(2);
     document.getElementById("question").textContent = "All Done!";
     answerOne.remove();
@@ -63,7 +62,7 @@ function setQuestion() {
     answerFour.hidden = false;
 
     document.getElementById("startButton").hidden = true;
-    if (i === questions.length) { return
+    if (i === questions.length) { endQuestion();
     }
     else {
         document.getElementById("question").textContent = questions[i]["title"];
