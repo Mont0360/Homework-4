@@ -9,4 +9,4 @@ https://mont0360.github.io/Homework-4/
 
 ### Screen shot of page:
 
-/Users/jonathanmontreuil/Desktop/Screen Shot 2020-04-25 at 10.29.49 PM.png
+<img width="537" alt="Screen Shot 2020-04-25 at 10 29 49 PM" src="https://user-images.githubusercontent.com/61704824/80297027-2fa42080-8745-11ea-9aa0-5bb278d1e441.png">
